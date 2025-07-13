@@ -1,7 +1,6 @@
-public class Hello World 
-{
- public static void main(String[]args)
- {
- Systtem.out.print("Hello World!);
- }
-}
+### Olá ! Eu sou o Diego  🖐️
+
+- Sou estudante de  Java
+- Estou estudando Spring
+- Estou estudando JavaScript
+- 

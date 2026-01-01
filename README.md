@@ -34,8 +34,9 @@ Sou um desenvolvedor Java em transição de carreira, buscando me consolidar na 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Almeidadih&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almeidadih&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Almeidadih&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Almeidadih&layout=compact&theme=radical)
+
 
 ---
 
